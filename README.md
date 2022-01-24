@@ -16,7 +16,7 @@ Make sure you also fill the `conf.json` file with the following inputs of your c
 
 ## Run
 
-A simple `npm run` is enough.
+A simple `npm start` is enough.
 
 ## Approach
 
@@ -26,7 +26,7 @@ Since using routes would be useless, I see the use of a server framework as 'ove
 
 Also would be the use of a model-route-controller-service
 
-I also made sure to only use pure node.js.
+I also made sure to only use pure node.js to make it funnier.
 
 
 
